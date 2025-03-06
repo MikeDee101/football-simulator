@@ -50,12 +50,6 @@ To use custom team logos, add the following files to the game directory:
 
 If these files aren't found, the game will use colored circles with letters as fallbacks.
 
-### Game Settings
-
-You can adjust the following settings in the game:
-- Team names
-- Rotation speed of the goal
-
 ## How to Play
 
 1. Click "Play" to start the match
